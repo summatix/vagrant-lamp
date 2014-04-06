@@ -3,3 +3,4 @@
 .vagrant
 *~
 pyrocms/*
+chef/cookbooks/pyrocms/resources/pyro.sql
