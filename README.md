@@ -39,7 +39,7 @@ Password: root
 
 Technical Details
 -----------------
-* Ubuntu 12.04 64-bit (Precise Pangolin)
+* Ubuntu 12.04 32-bit (Precise Pangolin)
 * Apache 2
 * PHP 5.3
 * MySQL 5.5
